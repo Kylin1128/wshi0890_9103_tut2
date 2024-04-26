@@ -2,3 +2,7 @@
 This is my first repository ~
 
 This is my first edit of rhe realme file.
+
+# Heading level 1
+## Heading 2
+### Heading 3
