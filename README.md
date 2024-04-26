@@ -18,4 +18,9 @@ This is my first edit of rhe realme file.
   - Sub item 1
   - Sub item 2
     - Sub Sub item
+
+**Numbered list**
+1. First item
+2. Second item
+    1. 1st sub item
   
