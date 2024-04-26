@@ -12,3 +12,10 @@ This is my first edit of rhe realme file.
 **This is blod test**
 
 *Italic text*
+
+- Item 1
+- Item 2
+  - Sub item 1
+  - Sub item 2
+    - Sub Sub item
+  
